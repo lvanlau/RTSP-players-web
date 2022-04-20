@@ -1,0 +1,23 @@
+[
+  {
+    "name": "财务门口",
+    "ip": "10.10.10.21",
+    "username": "admin",
+    "password": "zksx-12345",
+    "port": "554"
+  },
+  {
+    "name": "小仓库门口",
+    "ip": "10.10.10.24",
+    "username": "admin",
+    "password": "admin-12345",
+    "port": "554"
+  },
+  {
+    "name": "8078大厅",
+    "ip": "10.10.10.25",
+    "username": "admin",
+    "password": "admin-12345",
+    "port": "554"
+  },
+]
