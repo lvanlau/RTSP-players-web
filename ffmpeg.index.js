@@ -1,7 +1,8 @@
 var express = require("express");
 var expressWebSocket = require("express-ws");
 var ffmpeg = require("fluent-ffmpeg");
-ffmpeg.setFfmpegPath("D:/Library/ffmpeg-4.4.1-essentials_build/c-4.4.1-essentials_build/bin/ffmpeg");
+ffmpeg.setFfmpegPath("D:/Library/ffmpeg-4.4.1-essentials_build/ffmpeg-4.4.1-essentials_build/bin/ffmpeg");
+//D:\Library\ffmpeg-4.4.1-essentials_build\ffmpeg-4.4.1-essentials_build\bin
 var webSocketStream = require("websocket-stream/stream");
 var WebSocket = require("websocket-stream");
 var http = require("http");

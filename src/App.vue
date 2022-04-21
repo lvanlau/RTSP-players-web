@@ -27,8 +27,6 @@ body,
 .el-header {
   /*可以直接使用elementui的标签作为css选择器*/
   display: flex;
-  justify-content: space-between;
-  padding-left: 0;
   align-items: center;
   color: #fff;
   font-size: 20px;
